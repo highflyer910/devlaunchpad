@@ -2,7 +2,7 @@
   <div class="space-y-6">
     <!-- Welcome Section -->
     <div class="bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg p-6 text-white">
-      <h2 class="text-2xl font-bold mb-2">Welcome back, Demo User!</h2>
+      <h2 class="text-2xl font-bold mb-2">Welcome back, User!</h2>
       <p class="text-blue-100">
         Track your journey from idea to income. You have {{ store.ideas.length }} ideas, 
         {{ store.indieProjects.length }} indie projects, and {{ store.pendingTasks.length }} pending tasks.

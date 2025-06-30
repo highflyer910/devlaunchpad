@@ -5,7 +5,7 @@
       <div class="flex items-center justify-between">
         <div class="flex items-center space-x-3">
           <Rocket class="h-8 w-8 text-blue-600" />
-          <h1 class="text-2xl font-bold text-gray-900">Codequests</h1>
+          <h1 class="text-2xl font-bold text-gray-900">MakerForge</h1>
         </div>
         <div class="flex items-center space-x-4">
           <button class="flex items-center px-4 py-2 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-md shadow-sm hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2">
@@ -14,7 +14,7 @@
           </button>
           <div class="flex items-center space-x-2">
             <User class="h-6 w-6 text-gray-600" />
-            <span class="text-sm font-medium text-gray-700">Demo User</span>
+            <span class="text-sm font-medium text-gray-700">User</span>
           </div>
         </div>
       </div>
